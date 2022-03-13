@@ -1,0 +1,3 @@
+# Modelowanie układu elektromechanicznego
+
+Wykorzystać równania Lagrange’a do uzyskania opisu dynamiki elektromagnesu z rdzeniem nurnikowym. Zlinearyzować otrzymane równania i znaleźć macierzową transmitancję operatorową G(s) dla przyrostów wokół punktu pracy. Pominąć oporność magnetyczną żelaza i przyjąć, że indukcyjność uzwojenia określa wzór L = l0//x+d , gdzie l0 = const. Wstępne napięcie sprężyny wynosi xw. Wykonać symulację modeli nieliniowego i liniowego (dla wymuszenia skokowego i sinusoidalnego) układu stosując przyborniki Simulink, Control oraz funkcję ode45 programu Matlab. Porównać uzyskane odpowiedzi.
